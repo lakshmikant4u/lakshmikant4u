@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lakshmikant4u/count.svg" />
 </p>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmikant4u&theme=tokyonight&count_private=true
