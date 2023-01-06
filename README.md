@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/lakshmikant4u/count.svg" />
 </p>
 
-![Lakshmikant GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmikant4u&show_icons=true&theme=tokyonight&count_private=true)
-
+[![Lakshmikant GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmikant4u&show_icons=true&theme=tokyonight&count_private=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmikant4u&theme=tokyonight&count_private=true)](https://github.com/lakshmikant4u/github-readme-stats)
 
