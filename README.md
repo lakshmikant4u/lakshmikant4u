@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LAKSHMIKANT DESHPANDE
 - 👀 I’m interested in Architecting, Coding, Mentoring, Learning New Technologies...!
-- 🌱 I’m currently learning Go ..
+- 🌱 I’m currently interested with Enterprise Architecture ..
 - 💞️ I’m looking to collaborate with anyone who is interested to mentor people on different tech stack
 - 📫 Way to reach me https://www.linkedin.com/in/lakshmikant-deshpane/
 
