@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ![lakshmikant4u](https://user-images.githubusercontent.com/8243181/204267332-2819b03a-fdad-400f-b721-3457a03df82e.svg)
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lakshmikant4u/count.svg" />
 </p>
+ -->
