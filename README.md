@@ -2,7 +2,7 @@
 - 👀 I’m interested in Architecting, Coding, Mentoring, Learning New Technologies...!
 - 🌱 I’m currently interested with Enterprise Architecture ..
 - 💞️ I’m looking to collaborate with anyone who is interested to mentor people on different tech stack
-- 📫 Way to reach me https://www.linkedin.com/in/lakshmikant-deshpane/
+- 📫 Way to reach me https://www.linkedin.com/in/lakshmikant-deshpande/
 
 <!---
 lakshmikant4u/lakshmikant4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
